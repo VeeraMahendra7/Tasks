@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Lobster+Two:ital@1&family=Poppins:wght@300&family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    background-size: cover;
+    height: 30vh;
+}
+
+.main-heading{
+    color: white;
+    font-family: "Caveat";
+    font-size: 32px;
+    padding: 25px;
+    width: 200px;
+}
+
+.bottom-container{
+    background-color: lightblue;
+    text-align: center;
+    padding: 15px;
+}
+
+.carding-item{
+    text-align: center;
+    background-color: white;
+    width: 200px;
+    padding: 16px;
+    border-radius: 10px;
+    margin: 9px;
+}
+
+.image{
+    height: 64px;
+    width: 64px;
+}
+
+.carding-name{
+    font-size: 12px;
+    font-family: "Roboto";
+    color: #616e7c;
+    padding: 12px;
+    margin: 0;
+}
+
+.carding-price{
+    font-weight: 500;
+    color: #323f4b;
+    font-size: 20px;
+    font-family: "Roboto";
+    margin: 0;
+}
